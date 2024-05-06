@@ -1,0 +1,32 @@
+:root{
+    font-family: "Space Mono", monospace;
+    --nav-back: rgb(36,36,36);
+    --bg-dark: rgb(27,27,27);
+    --yellow: rgb(255, 255, 255);
+    --purple: rgb(147,132,186);
+    --pink: rgb(227,125,137);
+    --blue: rgba(102,174,198,255);
+    background-color: var(--nav-back);
+    width: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.about-contents{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 60px);
+    font-size: 1em;
+    color: var(--pink);
+}
+
+@media screen and (max-width: 720px){
+    .about-contents{
+        font-size: 0.7em;
+    }
+}

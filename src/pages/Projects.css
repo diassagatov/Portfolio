@@ -1,0 +1,40 @@
+:root{
+    font-family: "Space Mono", monospace;
+    --nav-back: rgb(36,36,36);
+    --bg-dark: rgb(27,27,27);
+    --yellow: rgb(255, 255, 255);
+    --purple: rgb(147,132,186);
+    --pink: rgb(227,125,137);
+    --blue: rgba(102,174,198,255);
+    background-color: var(--nav-back);
+    width: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contents{
+    padding-top: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width: min(90%, 720px);
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 30px 35px;
+}
+
+.project-image{
+    width: 100%;
+}
+
+
+

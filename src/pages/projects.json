@@ -1,0 +1,39 @@
+[
+    {
+        "name" : "Touchy",
+        "image": "touchy1.jpg",
+        "short": "A comprehensive desktop application aiming to promote better hygiene and discourage undesirable habits.\n• Detects face touches and sends Windows notifications.\n• Has an installer.\n• Runs in the background and is very optimized.\n• Has a tray icon menu to manage the app.",
+        "detailed": [
+            {
+                "type": "",
+                "data": ""
+            }
+        ]
+    },
+    {
+        "name" : "Vehicle Management System",
+        "image": "vms1.jpg",
+        "short": "A web-based application for my university’s car park to manage and maintain university trips and other related tasks.\n• Allows users to efficiently manage driver assignments to cars.\n• Tracks car fuel and maintenance requests.\n• Manages the warehouse of repairing parts.\n• Assigns and completes trips using Google Maps integration.\n• Views and downloads analytics on each driver’s performance.\n• Serves as a comprehensive solution for managing and maintaining the university’s vehicle fleet",
+        "detailed": [
+            {
+                "type": "",
+                "data": ""
+            }
+        ]
+    },
+    {
+        "name" : "CashBarmak",
+        "image": "cashbarmak1.jpg",
+        "short": "A web-based app that utilizes web scraping techniques to extract information from bank websites regarding their cashback programs for specific stores selected by users.\n• Processes this data using algorithmic analysis to determine the optimal card from the user’s wallet to use for the highest cashback rewards.\n• Incorporates a QR code system for businesses, enabling users to scan and receive immediate payment suggestions.",
+        "detailed": [
+            {
+                "type": "",
+                "data": ""
+            }
+        ]
+    }
+
+
+
+
+]
